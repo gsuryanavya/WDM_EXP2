@@ -10,7 +10,6 @@ Creation of Buying Table:
 ### Procedure:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Buying Table.
-
 ```
 @relation buying
 @attribute age {L20,20-40,G40}
@@ -43,9 +42,6 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 ![Screenshot 2024-08-17 095005](https://github.com/user-attachments/assets/2164f038-f420-4858-81f5-f31c3be891a8)
-
-
-
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Open explorer.
@@ -53,9 +49,7 @@ G40,high,yes,excellent,yes
 4) Select Associate option on the top of the Menu bar.
 5) Select Choose button and then click on Apriori Algorithm.
 6) Click on Start button and output will be displayed on the right side of the window.
-
 ### OUTPUT:
 ![Screenshot 2024-08-17 095119](https://github.com/user-attachments/assets/4df1f484-4458-4ca0-b4a7-58f2b61d1522)
-
-
 ### RESULT: 
+Thus, associate rules for the banking dataset using Apriori Algorithm is generated.
